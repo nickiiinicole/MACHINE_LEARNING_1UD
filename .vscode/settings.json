@@ -1,5 +1,9 @@
 {
     "conventionalCommits.scopes": [
+<<<<<<< HEAD
         "modelos ia"
+=======
+        "New Teory"
+>>>>>>> e900b866f078523d4be4c8fefa033dcab44fce69
     ]
 }
